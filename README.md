@@ -7,14 +7,18 @@
 2. Скриншоты
 
 Рисунок 1 - Меню Havoc и создание прослушки
+
 <img width="1228" height="851" alt="Меню Havoc и создание прослушки" src="https://github.com/user-attachments/assets/d10381a3-947c-4fc1-93ad-0cc019a0ee6d" />
 
 Рисунок 2 - Создание нагрузки
+
 <img width="547" height="700" alt="2) Создание нагрузки" src="https://github.com/user-attachments/assets/f1d4c27b-b7c8-4775-b841-d1460502ea5f" />
 
 Рисунок 3 - Подключённый агент
+
 <img width="1226" height="386" alt="3) Подключённый агент" src="https://github.com/user-attachments/assets/5981c9d2-69b2-4735-b0e1-ee3cc1fc8d40" />
 
 Рисунок 4 - Получение списка файлов
+
 <img width="513" height="353" alt="4) Получение списка файлов" src="https://github.com/user-attachments/assets/b136e297-5a00-43c4-a30b-966fcab600b8" />
 
